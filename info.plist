@@ -74,7 +74,7 @@
 	<key>createdby</key>
 	<string>Jeff Stein</string>
 	<key>description</key>
-	<string></string>
+	<string>Example workflow demonstrating how to install required packages</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -294,6 +294,6 @@ When finished re-open the plugin</string>
 	<key>version</key>
 	<string>1</string>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/jeeftor/AlfredMissingDependencies</string>
 </dict>
 </plist>
